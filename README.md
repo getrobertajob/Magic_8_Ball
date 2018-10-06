@@ -1,0 +1,2 @@
+# Magic_8_Ball
+ This is a Magic 8 Ball program displayed in the console. Saves default concole dispay settings, changes display settings, displays a title screen, prompts the user for a yes/no question, displays a progress bar message, uses time to wait a random amount of time, checks if the user asked a valid question, displays random yes/no/variation answer, prompts user with continue or exit option, sets defaults back upon exit. 
