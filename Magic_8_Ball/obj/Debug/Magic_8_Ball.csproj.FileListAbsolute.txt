@@ -1,0 +1,6 @@
+C:\Users\Robert\Desktop\Scripts\C#\Magic_8_Ball\Magic_8_Ball\bin\Debug\Magic_8_Ball.exe.config
+C:\Users\Robert\Desktop\Scripts\C#\Magic_8_Ball\Magic_8_Ball\obj\Debug\Magic_8_Ball.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Scripts\C#\Magic_8_Ball\Magic_8_Ball\bin\Debug\Magic_8_Ball.exe
+C:\Users\Robert\Desktop\Scripts\C#\Magic_8_Ball\Magic_8_Ball\bin\Debug\Magic_8_Ball.pdb
+C:\Users\Robert\Desktop\Scripts\C#\Magic_8_Ball\Magic_8_Ball\obj\Debug\Magic_8_Ball.exe
+C:\Users\Robert\Desktop\Scripts\C#\Magic_8_Ball\Magic_8_Ball\obj\Debug\Magic_8_Ball.pdb
